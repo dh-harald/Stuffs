@@ -1,0 +1,13 @@
+## Interface: 11200
+## Title: Stuffs
+## Author: Criminal
+## Notes: Damage, healing and threat meter for 1.12.1
+## Version: @project-version@
+## SavedVariables: StuffsDB
+
+Libs\Load_Libs.xml
+Locales\Load_Locales.xml
+Init.lua
+Core\Load_Core.xml
+UI\Load_UI.xml
+Options\Load_Options.xml
